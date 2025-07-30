@@ -125,6 +125,11 @@ button {
     background-color: #a1a1a1;
 }
 
+.button-clear {
+    margin-left: 15px;
+    background-color: var(--color-tertiary);
+    color: var(--color-text);
+}
 /* Listas */
 ul {
     list-style-type: none;
